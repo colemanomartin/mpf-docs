@@ -48,7 +48,7 @@ displays are they are targets for showing slides (you can think of them as slide
 The MPF-MC can have multiple display canvases at the same time, and you can map different
 ones to different physical displays. You can even create sub-displays where one display has
 a small region which is another display (kind of like picture-in-picture). The most
-important setting for a display is its size (with, height) in pixels. If you do not specify
+important setting for a display is its size (width, height) in pixels. If you do not specify
 any displays in your "displays:" section of your config files, a default display (800 x
 600 pixels) will be automatically created for you.
 
