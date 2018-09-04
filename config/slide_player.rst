@@ -263,7 +263,7 @@ a *slide_frame* widget (literally a widget which you add to a slide which holds 
 slides, kind of line picture-in-picture). When you add a slide_frame to a slide, you
 give it a name, and that name is added to the list of valid targets.
 
-So really the ``target:`` here is either the name of a display, or the name of a slide_frmae
+So really the ``target:`` here is either the name of a display, or the name of a slide_frame
 where you want this slide to be displayed.
 
 transition:
