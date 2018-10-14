@@ -36,6 +36,10 @@ For that reason, 156 mil Molex connectors are used for coils.
 Usually, they are spec'd for 7A (depends on housing and crimp).
 If you need more than 7A use multiple pins.
 
+Headers on pinball printed circuit boards often have a missing pin. This gap
+is filled by a polarizing key inserted into the cable housing thus preventing
+cables from being inserted in a reverse position or on an incorrect header.
+
 Molex part numbers (KK series):
 
 * 2 positions: 09-50-3021
@@ -49,6 +53,7 @@ Molex part numbers (KK series):
 * 11 positions: 09-50-3111
 * 12 positions: 09-50-3121
 * Crimps:  39-00-0342 or 08-52-0072
+* Polarizing keys: 15-04-0219
 
 Low Current/Logic Power
 -----------------------
@@ -69,6 +74,7 @@ Molex part numbers (KK series):
 * 11 positions: 22-01-2117
 * 12 positions: 22-01-2127
 * Crimps: 08-51-0108 or 08-50-0114
+* Polarizing keys: 15-04-9209
 
 There are also a lot of very cheap no-name replacements for 100 mil KK which
 work just fine since there should not be any high current on those connectors.
